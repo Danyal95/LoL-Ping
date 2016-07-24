@@ -11,4 +11,4 @@ Servers used and their IP's:
 4. OCE: 104.160.156.1
 5. LAN: 104.160.136.3
 
-The League servers have ICMP protection on so the pings displayed may be a little higher than what they will actually be in game and potentially packet loss, 
+The League servers have ICMP protection on so the pings displayed may be a little higher than what they will actually be in game and may packet loss. Its only the ICMP protection.
