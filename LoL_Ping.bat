@@ -17,15 +17,15 @@ echo.
 echo What is your LoL server? :
 echo.
 echo.
-echo a) NA 
+echo 1) NA 
 echo.
-echo b) EUW 
+echo 2) EUW 
 echo.
-echo c) EUNE
+echo 3) EUNE
 echo.
-echo d) OCE
+echo 4) OCE
 echo.
-echo e) LAN
+echo 5) LAN
 echo.
 echo.
 echo Type your answer below and press ENTER . . .
@@ -33,16 +33,11 @@ echo.
 
 :: Reads answer and then checks corresponding ping. If input does not much it gives an error.
 set /p do=  
-if %do% == A goto NA
-if %do% == a goto NA
-if %do% == B goto EUW
-if %do% == b goto EUW
-if %do% == C goto EUNE
-if %do% == c goto EUNE
-if %do% == D goto OCE
-if %do% == d goto OCE
-if %do% == E goto LAN
-if %do% == e goto LAN
+if %do% == 1 goto NA
+if %do% == 2 goto EUW
+if %do% == 3 goto EUNE
+if %do% == 4 goto OCE
+if %do% == 5 goto LAN
 echo.
 cls
 echo Invalid value = %do%
