@@ -1,7 +1,7 @@
 # LoL Ping
-Just a small non-fancy batch file to check your ping for the popular game League of Legends so you can determine if you will be able to play without lag or not and just remember, if your teamates feed, dont flame them.....because its always lag ;)
+Just a small non-fancy program to check your ping for the popular game League of Legends so you can determine if you will be able to play without lag or not and just remember, if your teamates feed, dont flame them.....because its always lag ;)
 
-All you have to do is run the .bat file to get started. You can copy/paste it to your desired location if you wish. If you have any concerns, right click the batch file and click edit to view the code or open it in your favourite text editor before running it.
+All you have to do is run the .exe file to get started. You can copy/paste it to your desired location if you wish. If you have any concerns, right click the batch file (.bat) and click edit to view the code or open it in your favourite text editor before running it. You can move the .exe file to your desired location.
 
 Servers used and their IP's:
 
