@@ -1,8 +1,8 @@
-:: Program to determine the ping for the popular game League of Legends.
+:: Determines the ping for the popular game League of Legends.
 :: Created by Danyal Soharwardi
 
 :: ------------- CONTACT --------------------
-:: Email: "danyal.work1@gmail.com"
+:: Email: "danyal.shakeel@gmail.com"
 :: Twitter: "https://twitter.com/deadfromzed"
 
 @echo off
