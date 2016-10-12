@@ -1,7 +1,7 @@
 # LoL Ping
-Just a small non-fancy program to check your ping for the popular game League of Legends so you can determine if you will be able to play without lag or not and just remember, if your teamates feed, dont flame them.....because its always lag ;)
+Just a small non-fancy batch script to check your ping for the game League of Legends so you can determine if you will be able to play without lagging. Just remember, if your teamates feed, dont flame them...ts probably lag ;)
 
-All you have to do is run the .exe file to get started. You can copy/paste it to your desired location if you wish. If you have any concerns, right click the batch file (.bat) and click edit to view the code or open it in your favourite text editor before running it. You can move the .exe file to your desired location.
+All you have to do is run the .exe file to get started. You can copy/paste it to your desired location if you wish. 
 
 Servers used and their IP's:
 
@@ -11,4 +11,4 @@ Servers used and their IP's:
 4. OCE: 104.160.156.1
 5. LAN: 104.160.136.3
 
-The League servers have ICMP protection on so the pings displayed may be a little higher than what they will actually be in game and may packet loss. Its only the ICMP protection.
+It is important to note that he League servers have ICMP protection on so the pings displayed may be a little higher than what they will actually be in game and may packet loss. Its only the ICMP protection.
