@@ -1,5 +1,5 @@
 # LoL Ping
-Just a small non-fancy batch script to check your ping for the game League of Legends so you can determine if you will be able to play without lagging. Just remember, if your teamates feed, dont flame them...ts probably lag ;)
+Just a small non-fancy batch script to check your ping for the game League of Legends so you can determine if you will be able to play without lagging. Just remember, if your teamates feed, dont flame them...its probably lag ;)
 
 All you have to do is run the .exe file to get started. You can copy/paste it to your desired location if you wish. 
 
