@@ -1,5 +1,5 @@
 # LoL Ping
-A batch script to check your in game ping for the game "League of Legends" so you can determine if you will be able to play without lagging before the game starts. 
+A program to check your in game ping for the game "League of Legends" so you can determine if you will be able to play without lagging before the game starts. 
 
 Run the .exe or .bat file to get started. You can copy/paste it to your desired location if you wish. 
 
