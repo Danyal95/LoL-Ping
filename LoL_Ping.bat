@@ -22,6 +22,8 @@ echo 3) EUNE
 echo.
 echo 4) OCE
 echo.
+echo 5) BR
+echo.
 echo 5) LAN
 echo.
 echo.
@@ -104,9 +106,25 @@ if %ans% == y goto OCE
 if %ans% == N goto HOME
 if %ans% == n goto HOME
 
+:BR
+cls
+echo Your ping for the BR server is:
+echo.
+ping 189.125.169.117
+echo.
+echo.
+echo Check again? (Y/N)
+echo.
+set /p ans=
+if %ans% == Y goto BR
+if %ans% == y goto BR
+if %ans% == N goto HOME
+if %ans% == n goto HOME
+
+
 :LAN
 cls
-echo Your ping for the LAN is:
+echo Your ping for the LAN server is:
 echo.
 ping 104.160.136.3
 echo.
