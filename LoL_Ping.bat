@@ -24,7 +24,7 @@ echo 4) OCE
 echo.
 echo 5) BR
 echo.
-echo 5) LAN
+echo 6) LAN
 echo.
 echo.
 echo Type your answer below and press ENTER . . .
